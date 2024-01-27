@@ -4,8 +4,7 @@ public class Tester {
 	
 	public static void tester()
 	{
-		System.out.println("commite to master branch");
-		System.out.println("launch  browser");
+		System.setProperty("testing conflict", "");
 	}
 
 }
