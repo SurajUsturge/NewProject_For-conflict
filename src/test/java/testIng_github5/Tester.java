@@ -8,5 +8,4 @@ public class Tester {
 		System.setProperty("testing resolve conflict", "");
 		System.setProperty("testing tester resolved conflict", "");
 	}
-
 }
