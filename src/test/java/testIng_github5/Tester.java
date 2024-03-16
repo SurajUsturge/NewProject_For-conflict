@@ -7,7 +7,5 @@ public class Tester {
 		System.setProperty("testing rsovle conflict", "");
 		System.setProperty("testing resolve conflict", "");
 		System.setProperty("testing tester resolved conflict", "");
-//SYSo
 	}
-
 }
